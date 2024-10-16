@@ -1,0 +1,131 @@
+@charset "UTF-8";
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+   ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+html {
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+height: 100vh;
+display: block;
+text-align: center; 
+background: linear-gradient(to bottom, white,	#D3D3D3);
+font-family: Helvetica, sans-serif;
+}
+
+main{
+margin: 0 auto; 
+height: 250px;
+font-size: 12px;
+display: flex; 
+justify-content: center; 
+line-height: 0; 
+}
+
+.usualPage{
+	width: 650px;
+	margin: 30px auto;
+	color:#696969;
+}
+
+.backgroundFrame{
+	background-color:white;
+	width: 600px;
+	height:300px;
+	border-radius: 4px;
+	margin: 30px auto;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.backgroundFrame p{
+	padding: 10px;
+}
+
+p{
+	line-height: 1.15; 
+}
+h1 {
+font-size: 22px;
+font-weight:600;
+color: #2E8B57;
+width:250px;
+margin: 0 auto; 
+padding-top:50px;
+padding-bottom:15px;
+}
+
+button{
+	background-color:#008000;
+	border:none;
+	color:white;
+	width: 300px;
+	height:30px;
+	border-radius: 4px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size:14px;
+}
+
+.chooseButton{
+display: flex; 
+justify-content: center;  
+}
+
+.rightButton {
+	margin:10px;
+	background-color: #4682B4;
+	width:250px;
+}
+
+.leftButton {
+	margin:10px;
+	width:250px;
+}
+
+hr{
+	width: 50%; 
+	color: #989898;
+}
+
+a{
+	color: #4682B4;
+	text-decoration: none;
+	font-size:12px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+	width: 300px;
+	height:25px;
+	padding:0px;
+	border-radius: 4px;
+	border-color:#F8F8F8;
+	box-shadow: none;
+	outline-color: #4682B4; 
+}
+
+label {
+    display: flex; 
+    align-items: baseline; 
+    justify-content: flex-start; 
+}
+
+input[type="checkbox"] {
+margin:0;
+margin-top:5px;
+}
+
+footer{
+	font-size:12px;
+	color: #989898;
+}
