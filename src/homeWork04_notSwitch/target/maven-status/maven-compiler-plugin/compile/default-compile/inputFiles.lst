@@ -1,0 +1,13 @@
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\logic\LogicStubForRegistration.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\concrete\implementation\GoToRegistrationPage.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\concrete\CommandProvider.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\concrete\implementation\NoSuchCommand.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\logic\LogicStubForAuthorization.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\concrete\Command.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\concrete\CommandName.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\Controller.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\concrete\implementation\DoAuth.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\logic\PasswordCheck.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\concrete\implementation\ShowStub.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\concrete\implementation\GoToAuthentificationPage.java
+C:\tools\apache-tomcat-10.1.30\webapps\homeWork04_notSwitch\src\main\java\by\urban\web_project2\controller\concrete\implementation\DoRegistration.java
