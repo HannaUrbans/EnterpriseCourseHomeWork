@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>Webapp to train</finalName>
+		<finalName>homeWork04_notSwitch</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
