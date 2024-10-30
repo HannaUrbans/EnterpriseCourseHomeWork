@@ -45,8 +45,11 @@
 						Все новости, <br>которые Вы боялись упустить
 					</h1>
 					<div class="news_block">
+						<!-- переменная regularNewsSize = длина переданного списка -->
 						<c:set var="regularNewsSize" value="${fn:length(regularNews)}" />
+						<!-- флаг isBreakingNews = true, если в переменной breakingNews передалось что-то-->
 						<c:set var="isBreakingNews" value="${not empty breakingNews}" />
+						<!-- флаг isTopNews = true, если в переменной topNews передалось что-то-->
 						<c:set var="isTopNews" value="${not empty topNews}" />
 
 						<div class="left_news_block">
