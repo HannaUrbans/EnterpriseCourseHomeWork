@@ -4,9 +4,12 @@
 *.tmp
 *.swp
 
+
 # Директории сборки
 target/
 bin/
+.metadata/
+.settings/
 
 # Игнорирование настроек IDE
 .idea/
